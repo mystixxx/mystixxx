@@ -1,1 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=mystixxx&theme=dark" />
+(https://github-readme-stats.vercel.app/api?username=mystixxx)](https://github.com/anuraghazra/github-readme-stats)
