@@ -1,11 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patrik Vulinec
 ========================================================================================================================================
 
-I am Frontend and Mobile Developer.
+I am Software Developer.
 --------------------------
 
 *   🌍  I'm based in Zagreb, Croatia
-*   🧠  Currently learning React
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
